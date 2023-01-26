@@ -2,7 +2,7 @@
   Hey there, I'm Sainath Sativar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-![](https://visitor-badge.laobi.icu/badge?page_id=Sativarsainath-26.Sativarsainath-26) [![Github](https://img.shields.io/github/followers/Sativarsainath-26?label=Follow&style=social)](https://github.com/Sativarsainath-26)
+
 
 ## I'm working as a backend developer on cloud and on-premises products
 
